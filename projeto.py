@@ -1,5 +1,9 @@
 from math import* # Importa todas as funções da biblioteca math, como hypot, sin, cos, etc.
 
+# [X] Criar um arquivo trajetoBola.txt
+# [ ] Importar arquivo para o codigo
+# [ ] Acessar arquivo e entender o que são cada variavel
+
 Velocidade = 0.02 # Define uma variável chamada Velocidade que guarda o valor 0.02, que representa a velocidade do robô em unidades por segundo.
 
 BolaX = 12 # Define a posição inicial da bola no eixo X.
